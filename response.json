@@ -1,0 +1,24 @@
+{  
+   "errors":{  
+      "error_code":0,
+      "message":"error message"
+   },
+   "data":{  
+      "diamonds":[  
+         {  
+            "diamond_id":123,
+            "shape":"round",
+            "color":"D",
+            "clarity":"vvs1",
+            "weight":1.09
+         },
+         {  
+            "diamond_id":124,
+            "shape":"round",
+            "color":"E",
+            "clarity":"vvs1",
+            "weight":1.09
+         }
+      ]
+   }
+}

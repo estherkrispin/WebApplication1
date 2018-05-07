@@ -1,0 +1,74 @@
+{
+  "diamonds": [
+    {
+      "diamondID": 1234,
+      "shape": "Round",
+      "weight": 0.44,
+      "color": "D",
+      "Clarity": "VVS1"
+    },
+    {
+      "diamondID": 3467,
+      "shape": "Round",
+      "weight": 0.32,
+      "color": "G",
+      "Clarity": "VS1"
+    },
+    {
+      "diamondID": 8436,
+      "shape": "Oval",
+      "weight": 1.22,
+      "color": "B",
+      "Clarity": "IF"
+    },
+    {
+      "diamondID": 2346,
+      "shape": "Princess",
+      "weight": 0.45,
+      "color": "I",
+      "Clarity": "VVS1"
+    },
+    {
+      "diamondID": 1347,
+      "shape": "Round",
+      "weight": 1.01,
+      "color": "F",
+      "Clarity": "IF"
+    },
+    {
+      "diamondID": 8962,
+      "shape": "Round",
+      "weight": 0.98,
+      "color": "E",
+      "Clarity": "VS2"
+    },
+    {
+      "diamondID": 7512,
+      "shape": "Princess",
+      "weight": 2.03,
+      "color": "H",
+      "Clarity": "VS2"
+    },
+    {
+      "diamondID": 5682,
+      "shape": "Oval",
+      "weight": 1.00,
+      "color": "J",
+      "Clarity": "VVS2"
+    },
+    {
+      "diamondID": 7283,
+      "shape": "Emerald",
+      "weight": 2.05,
+      "color": "F",
+      "Clarity": "VS1"
+    },
+    {
+      "diamondID": 7136,
+      "shape": "Emerald",
+      "weight": 1.00,
+      "color": "G",
+      "Clarity": "VS2"
+    }
+  ]
+}
